@@ -1,0 +1,185 @@
+Product,Weight (in kg),Brand
+Tent,3.5,OutdoorMaster
+Sleeping Bag,1.2,Coleman
+Camp Stove,0.8,Primus
+Hiking Boots,1.0,Merrell
+Portable Chair,1.2,ALPS Mountaineering
+Cookware Set,2.0,GSI Outdoors
+Folding Table,2.5,Coleman
+Air Mattress,1.8,Intex
+Backpack,1.5,Osprey
+Lantern,0.6,Black Diamond
+First Aid Kit,0.4,Adventure Medical Kits
+Water Bottle,0.2,Hydro Flask
+Headlamp,0.1,Petzl
+Hammock,1.0,ENO - Eagles Nest Outfitters
+Camping Pillow,0.3,Sea to Summit
+Camp Grill,1.5,Camp Chef
+Camping Axe,0.8,Fiskars
+Camp Shower,1.2,Zodi
+Insect Repellent,0.2,Repel
+Folding Shovel,0.7,Gerber Gear
+Camping Cooker,1.3,Coleman
+Solar Charger,0.3,Goal Zero
+Fishing Gear,1.2,Shimano
+Camping Tableware Set,0.8,Light My Fire
+Camping Tarp,1.0,Kelty
+Camping Cot,2.0,Coleman
+Camp Towel,0.2,Outgo
+Camp Cooler,3.0,YETI
+Fire Starter Kit,0.4,UCO Gear
+Camping Lantern,0.5,Streamlight
+Water Purifier,0.3,Sawyer
+Camping Multi-tool,0.2,Leatherman
+Camp Mallet,0.5,Coghlans
+Camping Backpack,1.8,Deuter
+Camping Hammock,0.9,Wise Owl Outfitters
+Camping Chair,1.0,Crazy Creek
+Camping Pots,0.8,MSR - Mountain Safety Research
+Camping Pans,0.7,GSI Outdoors
+Camping Plate Set,0.6,Sea to Summit
+Camping Cup,0.3,Yeti
+Camping Utensil Set,0.2,Light My Fire
+Camping Tongs,0.1,Grubstick
+Camping Knife,0.1,Benchmade
+Camping Spatula,0.1,GSI Outdoors
+Camping Cutting Board,0.3,Sea to Summit
+Camping Coffee Maker,0.5,GSI Outdoors
+Camping Kettle,0.4,Stanley
+Camping Dish Rack,0.3,Sea to Summit
+Camping Folding Table,2.2,Coleman
+Camping Cooler,2.5,ORCA
+Camping Sleeping Pad,1.2,Therm-a-Rest
+Camping Air Pump,0.3,Intex
+Camping Repair Kit,0.2,McNett
+Camping Rope,0.6,Black Diamond
+Camping Bungee Cords,0.3,Nite Ize
+Camping Duct Tape,0.1,Gear Aid
+Camping Firewood,2.0,Duraflame
+Camping Marshmallow Roaster,0.2,Rome Industries
+Camping S'mores Kit,0.4,Sterno
+Camping Hot Dog Roaster,0.3,Camp Chef
+Camping Grill Grate,0.6,Coghlans
+Camping Charcoal,2.5,Kingsford
+Camping Propane Tank,2.0,Coleman
+Camping Dutch Oven,1.5,Lodge
+Camping Coffee Percolator,0.6,Stanley
+Camping Campfire Grill,1.0,Texsport
+Camping Trash Bags,0.1,REI Co-op
+Camping Bug Zapper,0.4,Thermacell
+Camping Windbreaker,0.7,The North Face
+Camping Rain Poncho,0.5,Frogg Toggs
+Camping Umbrella,0.6,Repel
+Camping Sunscreen,0.2,Banana Boat
+Camping Hat,0.1,Columbia
+Camping Bandana,0.1,Buff
+Camping Compass,0.1,Suunto
+Camping Map,0.2,National Geographic
+Camping GPS Device,0.3,Garmin
+Camping Camera,0.5,Sony
+Camping Binoculars,0.4,Leupold
+Camping Field Guide,0.2,Peterson Field Guides
+Camping Outdoor Chair,1.2,Helinox
+Camping Tarp Stakes,0.1,MSR - Mountain Safety Research
+Camping Guyline,0.1,LitLife
+Camping Lantern Mantles,0.1,Coleman
+Camping Cookware Organizer,0.2,Camp Chef
+Camping Food Storage Container,0.3,Lock & Lock
+Camping Folding Saw,0.4,SOG
+Camping Marshmallow Sticks,0.2,Rome Industries
+Camping Multifunctional Tool,0.2,Victorinox
+Camping Fire Starter,0.1,Light My Fire
+Camping Portable Shower,1.0,Ivation
+Camping Portable Toilet,2.0,Thetford
+Camping Trash Can,0.3,Reliance
+Camping Tote Bag,0.5,REI Co-op
+Camping Hammock Straps,0.2,ENO - Eagles Nest Outfitters
+Camping Hammock Rain Fly,0.4,ENO - Eagles Nest Outfitters
+Camping Hammock Bug Net,0.3,ENO - Eagles Nest Outfitters
+Camping Hammock Underquilt,0.7,ENO - Eagles Nest Outfitters
+Camping Sleeping Bag Liner,0.3,Sea to Summit
+Camping Sleeping Pad Repair Kit,0.1,Therm-a-Rest
+Camping Air Mattress Patch Kit,0.1,Intex
+Camping Backpack Rain Cover,0.2,Deuter
+Camping Backpack Hydration Bladder,0.3,Platypus
+Camping Backpack Hip Belt,0.2,Osprey
+Camping Backpack Chest Strap,0.1,Black Diamond
+Camping Backpack Compression Straps,0.1,REI Co-op
+Camping Backpack Accessory Loops,0.1,Mystery Ranch
+Camping Backpack Emergency Whistle,0.1,Fox 40
+Camping Backpack Rain Poncho,0.2,Sea to Summit
+Camping Backpack Dry Bag,0.2,Sea to Summit
+Camping Backpack Sleeping Bag Compartment,0.3,Deuter
+Camping Backpack External Attachment Straps,0.1,Black Diamond
+Camping Backpack Internal Frame,0.5,Osprey
+Camping Backpack Sternum Strap,0.1,REI Co-op
+Camping Backpack Hip Pockets,0.2,Deuter
+Camping Backpack Laptop Sleeve,0.3,Osprey
+Camping Backpack Mesh Side Pockets,0.1,Deuter
+Camping Backpack Gear Loops,0.1,Black Diamond
+Camping Backpack Gear Straps,0.2,Osprey
+Camping Backpack Gear Loops,0.1,REI Co-op
+Camping Backpack Hydration Tube Clip,0.1,Platypus
+Camping Backpack Trekking Pole Attachments,0.1,Black Diamond
+Camping Backpack Reflective Strip,0.1,REI Co-op
+Camping Backpack Water Bottle Holder,0.1,Osprey
+Camping Backpack Hip Belt Pocket,0.1,Deuter
+Camping Backpack Ventilated Back Panel,0.2,Osprey
+Camping Backpack Load Lifters,0.1,Deuter
+Camping Backpack Load Stabilizer Straps,0.1,Osprey
+Camping Backpack Rain Cover,0.2,REI Co-op
+Camping Backpack Rain Fly,0.3,Deuter
+Camping Backpack Rain Poncho,0.2,Sea to Summit
+Camping Backpack Dry Bag,0.3,Sea to Summit
+Camping Backpack Sleeping Bag Compartment,0.3,Deuter
+Camping Backpack Emergency Whistle,0.1,Fox 40
+Camping Backpack Hydration Bladder,0.2,Platypus
+Camping Backpack Hip Belt,0.2,Osprey
+Camping Backpack Chest Strap,0.1,Black Diamond
+Camping Backpack Compression Straps,0.1,REI Co-op
+Camping Backpack Accessory Loops,0.1,Mystery Ranch
+Camping Backpack External Attachment Straps,0.1,Black Diamond
+Camping Backpack Internal Frame,0.5,Osprey
+Camping Backpack Sternum Strap,0.1,REI Co-op
+Camping Backpack Hip Pockets,0.2,Deuter
+Camping Backpack Laptop Sleeve,0.3,Osprey
+Camping Backpack Mesh Side Pockets,0.1,Deuter
+Camping Backpack Gear Loops,0.1,Black Diamond
+Camping Backpack Gear Straps,0.2,Osprey
+Camping Backpack Gear Loops,0.1,REI Co-op
+Camping Backpack Hydration Tube Clip,0.1,Platypus
+Camping Backpack Trekking Pole Attachments,0.1,Black Diamond
+Camping Backpack Reflective Strip,0.1,REI Co-op
+Camping Backpack Water Bottle Holder,0.1,Osprey
+Camping Backpack Hip Belt Pocket,0.1,Deuter
+Camping Backpack Ventilated Back Panel,0.2,Osprey
+Camping Backpack Load Lifters,0.1,Deuter
+Camping Backpack Load Stabilizer Straps,0.1,Osprey
+Camping Backpack Rain Cover,0.2,REI Co-op
+Camping Backpack Rain Fly,0.3,Deuter
+Camping Backpack Rain Poncho,0.2,Sea to Summit
+Camping Backpack Dry Bag,0.3,Sea to Summit
+Camping Backpack Sleeping Bag Compartment,0.3,Deuter
+Camping Backpack Emergency Whistle,0.1,Fox 40
+Camping Backpack Hydration Bladder,0.2,Platypus
+Camping Backpack Hip Belt,0.2,Osprey
+Camping Backpack Chest Strap,0.1,Black Diamond
+Camping Backpack Compression Straps,0.1,REI Co-op
+Camping Backpack Accessory Loops,0.1,Mystery Ranch
+Camping Backpack External Attachment Straps,0.1,Black Diamond
+Camping Backpack Internal Frame,0.5,Osprey
+Camping Backpack Sternum Strap,0.1,REI Co-op
+Camping Backpack Hip Pockets,0.2,Deuter
+Camping Backpack Laptop Sleeve,0.3,Osprey
+Camping Backpack Mesh Side Pockets,0.1,Deuter
+Camping Backpack Gear Loops,0.1,Black Diamond
+Camping Backpack Gear Straps,0.2,Osprey
+Camping Backpack Gear Loops,0.1,REI Co-op
+Camping Backpack Hydration Tube Clip,0.1,Platypus
+Camping Backpack Trekking Pole Attachments,0.1,Black Diamond
+Camping Backpack Reflective Strip,0.1,REI Co-op
+Camping Backpack Water Bottle Holder,0.1,Osprey
+Camping Backpack Hip Belt Pocket,0.1,Deuter
+Camping Backpack Ventilated Back Panel,0.2,Osprey
+Camping Backpack Load Lifters,0.1,Deuter
+Camping Backpack Load Stabilizer Straps,0.1,Osprey
